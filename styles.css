@@ -1,3 +1,47 @@
+/*this .hov will alter all my images with the following style*/
+.bruv {
+    border-style: dashed;
+    border-width: 3px;
+    border-color:aqua;
+    border-radius: 4px;
+    font: italic;
+    color: darkblue;
+}
+.hov {
+    border-style: dashed;
+    border-width: 3px;
+    border-color:aqua;
+    border-radius: 4px;
+    height: 350px;
+    width: 350px;
+    float: left;
+}
+.every-even li:nth-child(even) {
+    background-color: purple;
+}
+h1 {
+    color: blueviolet;
+    font: italic;
+}
+table{
+    border-collapse:collapse;
+    width: 30%;
+}
+th, td {
+    padding:12px;
+    text-align: left;
+    border-bottom: 2px;
+}
+tr:nth-child(odd){
+background-color: blueviolet;
+}
+form {
+    background-color: aqua;
+    float: inline-end;
+}
+ol{
+    background-color: brown;
+}
 body {
-    background-color: rgb(19, 108, 185);
+    background-color:burlywood;
 }
