@@ -45,3 +45,7 @@ ol{
 body {
     background-color:burlywood;
 }
+#div{
+    color: red;
+    float: right;
+}
