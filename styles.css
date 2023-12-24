@@ -1,5 +1,5 @@
 /*this .hov will alter all my images with the following style*/
-.bruv {
+.bruv {/*this is a class selecter editing my text*/
     border-style: dashed;
     border-width: 3px;
     border-color:aqua;
@@ -19,7 +19,7 @@
 .every-even li:nth-child(even) {
     background-color: purple;
 }
-h1 {
+h1 {/*this is an element selector editing my text*/
     color: blueviolet;
     font: italic;
 }
@@ -45,7 +45,7 @@ ol{
 body {
     background-color:burlywood;
 }
-#div{
+#div{/*this is an Id selecter editing my text*/
     color: red;
     float: right;
 }
